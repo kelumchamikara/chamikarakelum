@@ -129,7 +129,7 @@ header .row {
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .btn-download {
     width: 130px;
     height: 30px;
