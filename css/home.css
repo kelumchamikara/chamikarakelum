@@ -83,7 +83,7 @@
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .home {
     background-image: url("../img/mine9.jpg");
   }
