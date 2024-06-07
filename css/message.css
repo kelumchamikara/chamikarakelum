@@ -1,0 +1,5 @@
+@media screen and (max-width: 400px) {
+    .message-text h2 {
+        font-size: 5px;
+    }
+}
