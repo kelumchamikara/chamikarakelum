@@ -90,7 +90,7 @@
     background-color: #01143e;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     .contact-form .button {
         /*flex: 0 0 100%;
         max-width: 100%;*/
